@@ -1,0 +1,11 @@
+; $Id: accents.info,v 1.2 2010/06/15 00:12:12 jimbullington Exp $
+name = Accents
+description = "Removes accents from words before searching"
+core = 6.x
+
+; Information added by drupal.org packaging script on 2010-06-15
+version = "6.x-1.0"
+core = "6.x"
+project = "accents"
+datestamp = "1276561504"
+

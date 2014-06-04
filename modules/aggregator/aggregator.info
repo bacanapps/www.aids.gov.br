@@ -1,0 +1,11 @@
+name = Aggregator
+description = "Aggregates syndicated content (RSS, RDF, and Atom feeds)."
+package = Core - optional
+version = VERSION
+core = 6.x
+
+; Information added by Drupal.org packaging script on 2014-06-02
+version = "6.31+5-dev"
+project = "drupal"
+datestamp = "1401738235"
+

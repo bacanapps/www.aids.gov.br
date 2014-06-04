@@ -1,0 +1,11 @@
+name = User registration
+description = Adds a user registration component for webforms so that anonymous users can create new accounts during form submission.
+core = 6.x
+package = Webform
+
+; Information added by drupal.org packaging script on 2013-10-26
+version = "6.x-1.x-dev"
+core = "6.x"
+project = "webform_register"
+datestamp = "1382756054"
+

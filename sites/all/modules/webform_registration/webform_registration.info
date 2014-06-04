@@ -1,0 +1,12 @@
+name = Webform Registration
+description = Allows Webform module to generate users.
+package = "Webform"
+dependencies[] = webform
+version = 6.x-1.0
+core = 6.x
+; Information added by drupal.org packaging script on 2012-01-15
+version = "6.x-1.1"
+core = "6.x"
+project = "webform_registration"
+datestamp = "1326620445"
+

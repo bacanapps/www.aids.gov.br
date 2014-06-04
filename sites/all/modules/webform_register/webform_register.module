@@ -1,0 +1,26 @@
+<?php // $Id
+
+/**
+ * Implementation of webform_register_webform_component_info().
+ */
+function webform_register_webform_component_info() {
+  return array(
+    'webform_register' => array(
+      'label' => t('User registration'),
+      'description' => t('Allow users to login or register for the site.'),
+      'file' => 'components/webform_register.inc',
+    ),
+  );
+}
+
+/**
+ * Implementation of webform_register_webform_submission_insert().
+ */
+function webform_register_webform_submission_insert($node, $submission) {
+}
+
+/**
+ * Implementation of webform_register_webform_submission_render_alter().
+ */
+function webform_register_webform_submission_render_alter(&$renderable) {
+}

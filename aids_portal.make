@@ -164,7 +164,6 @@ projects[] = triggerunlock
 projects[] = upload_preview
 projects[] = uploadpath
 projects[] = views_attach
-projects[] = views_bulk_operations
 projects[] = views_data_export
 projects[] = watcher
 projects[] = webform_conditional

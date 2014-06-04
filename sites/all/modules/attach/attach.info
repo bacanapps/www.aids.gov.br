@@ -1,0 +1,9 @@
+name = Universal Attach filter
+description = Allow to attach everything into node content
+core = 6.x
+; Information added by drupal.org packaging script on 2013-05-09
+version = "6.x-1.5"
+core = "6.x"
+project = "attach"
+datestamp = "1368137713"
+
